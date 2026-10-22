@@ -1,0 +1,501 @@
+customer_id,age,city,signup_date,preferred_channel,loyalty_points,customer_segment
+C0001,52,Nashik,2024-01-27,Mobile App,500,At Risk
+C0002,45,Aurangabad,2023-02-10,Mobile App,200,Regular
+C0003,40,Navi Mumbai,2023-02-17,Store,100,Regular
+C0004,44,Nashik,2024-12-26,Store,500,At Risk
+C0005,18,Thane,2024-10-04,Website,1500,Regular
+C0006,26,Aurangabad,2025-03-05,Store,50,Regular
+C0007,49,Aurangabad,2024-11-21,Store,500,Regular
+C0008,54,Aurangabad,2025-01-03,Website,1500,Premium
+C0009,30,Kolhapur,2023-02-05,Website,100,New
+C0010,59,Thane,2024-07-31,Store,500,At Risk
+C0011,61,Nagpur,2023-01-28,Store,1000,Regular
+C0012,45,Mumbai,2024-05-20,Store,0,Regular
+C0013,69,Thane,2023-10-10,Mobile App,1500,New
+C0014,26,Navi Mumbai,2024-02-15,Store,100,Regular
+C0015,32,Nashik,2024-10-25,Store,0,Regular
+C0016,66,Pune,2025-04-09,Mobile App,1000,Premium
+C0017,66,Thane,2024-01-22,Store,0,Regular
+C0018,19,Nagpur,2023-01-02,Store,500,Regular
+C0019,36,Navi Mumbai,2024-01-20,Store,200,Regular
+C0020,49,Aurangabad,2024-12-10,Website,100,Regular
+C0021,55,Kolhapur,2024-02-05,Store,50,Regular
+C0022,65,Kolhapur,2025-06-25,Mobile App,200,Regular
+C0023,46,Nashik,2024-04-08,Website,100,New
+C0024,20,Aurangabad,2023-12-12,Store,1500,New
+C0025,57,Kolhapur,2025-07-17,Website,0,Premium
+C0026,42,Pune,2025-08-10,Mobile App,1000,Premium
+C0027,33,Pune,2023-09-20,Mobile App,200,Regular
+C0028,18,Kolhapur,2023-01-02,Mobile App,500,At Risk
+C0029,58,Nashik,2023-01-09,Website,100,At Risk
+C0030,50,Kolhapur,2023-02-23,Mobile App,0,New
+C0031,57,Nagpur,2024-02-26,Website,1000,At Risk
+C0032,46,Pune,2023-06-02,Store,50,Regular
+C0033,33,Thane,2023-06-12,Store,0,New
+C0034,38,Kolhapur,2024-02-02,Mobile App,1500,Premium
+C0035,50,Kolhapur,2024-10-01,Store,100,Regular
+C0036,63,Navi Mumbai,2023-01-22,Mobile App,500,Regular
+C0037,44,Nashik,2025-02-14,Mobile App,1000,Regular
+C0038,50,Thane,2025-05-28,Store,100,Regular
+C0039,66,Kolhapur,2023-07-11,Store,200,Regular
+C0040,70,Navi Mumbai,2023-02-15,Store,0,At Risk
+C0041,66,Navi Mumbai,2023-12-15,Mobile App,100,At Risk
+C0042,38,Kolhapur,2023-04-26,Mobile App,100,New
+C0043,59,Aurangabad,2025-03-03,Mobile App,100,Regular
+C0044,67,Kolhapur,2025-03-02,Website,1500,New
+C0045,59,Pune,2023-06-04,Store,0,New
+C0046,65,Aurangabad,2023-09-03,Store,1500,Regular
+C0047,42,Kolhapur,2025-03-28,Mobile App,50,New
+C0048,62,Nagpur,2023-02-05,Website,1000,Premium
+C0049,68,Aurangabad,2025-08-29,Store,50,New
+C0050,39,Nashik,2024-12-27,Store,1500,At Risk
+C0051,39,Mumbai,2023-05-30,Store,1000,Regular
+C0052,54,Mumbai,2024-03-19,Mobile App,200,New
+C0053,56,Nagpur,2023-01-05,Mobile App,200,Regular
+C0054,57,Nagpur,2025-05-16,Store,50,Regular
+C0055,36,Mumbai,2024-10-31,Store,100,Regular
+C0056,43,Thane,2025-08-08,Store,1000,Premium
+C0057,29,Thane,2024-01-28,Store,50,New
+C0058,49,Navi Mumbai,2025-03-12,Store,0,Regular
+C0059,18,Kolhapur,2025-06-03,Website,1500,Regular
+C0060,20,Nagpur,2025-05-10,Website,100,Premium
+C0061,46,Navi Mumbai,2024-11-27,Store,1500,New
+C0062,69,Thane,2025-01-19,Store,50,Premium
+C0063,56,Nagpur,2023-12-07,Store,1000,Regular
+C0064,27,Navi Mumbai,2025-01-31,Website,50,Regular
+C0065,36,Pune,2025-06-24,Website,500,Premium
+C0066,41,Kolhapur,2023-01-16,Website,0,At Risk
+C0067,44,Nagpur,2023-06-09,Website,50,Regular
+C0068,50,Thane,2024-06-28,Website,500,Regular
+C0069,50,Kolhapur,2024-07-30,Mobile App,200,Regular
+C0070,48,Navi Mumbai,2023-01-12,Store,100,Regular
+C0071,34,Pune,2024-12-27,Store,50,Premium
+C0072,68,Mumbai,2024-02-22,Website,50,Premium
+C0073,28,Thane,2024-05-07,Store,0,Premium
+C0074,53,Pune,2025-01-30,Store,100,At Risk
+C0075,35,Mumbai,2024-07-01,Mobile App,1500,At Risk
+C0076,29,Mumbai,2023-02-06,Website,1500,Premium
+C0077,47,Mumbai,2025-05-22,Website,200,Premium
+C0078,30,Nashik,2023-12-08,Store,200,New
+C0079,36,Nagpur,2023-08-21,Store,200,At Risk
+C0080,69,Nashik,2024-01-19,Website,500,New
+C0081,42,Nagpur,2024-01-31,Website,200,At Risk
+C0082,56,Thane,2023-05-24,Mobile App,50,New
+C0083,22,Nashik,2023-08-11,Mobile App,100,Premium
+C0084,29,Mumbai,2025-01-20,Mobile App,200,At Risk
+C0085,24,Navi Mumbai,2023-08-18,Website,50,Regular
+C0086,19,Thane,2025-03-05,Website,1000,At Risk
+C0087,62,Mumbai,2024-05-10,Mobile App,0,At Risk
+C0088,62,Nagpur,2023-08-05,Store,200,New
+C0089,61,Navi Mumbai,2024-03-20,Website,50,At Risk
+C0090,20,Thane,2023-02-08,Store,200,Regular
+C0091,45,Kolhapur,2024-10-21,Store,0,Premium
+C0092,30,Nagpur,2024-01-22,Mobile App,1500,Regular
+C0093,50,Navi Mumbai,2024-02-13,Store,50,New
+C0094,62,Thane,2024-11-02,Store,1000,At Risk
+C0095,54,Nagpur,2025-02-02,Website,200,New
+C0096,58,Mumbai,2023-02-16,Website,1500,At Risk
+C0097,20,Kolhapur,2024-07-19,Mobile App,100,Regular
+C0098,33,Kolhapur,2025-01-05,Store,200,Regular
+C0099,45,Nagpur,2023-05-02,Store,50,New
+C0100,45,Thane,2024-06-23,Mobile App,100,Premium
+C0101,26,Mumbai,2023-05-25,Store,500,Premium
+C0102,30,Navi Mumbai,2025-07-13,Store,1000,At Risk
+C0103,22,Aurangabad,2023-09-13,Mobile App,50,At Risk
+C0104,62,Thane,2023-08-30,Store,0,Premium
+C0105,49,Aurangabad,2023-05-26,Store,500,Premium
+C0106,39,Nashik,2023-08-05,Mobile App,500,New
+C0107,52,Aurangabad,2023-04-15,Store,1500,At Risk
+C0108,22,Aurangabad,2025-09-03,Mobile App,100,Regular
+C0109,70,Thane,2025-09-23,Mobile App,100,New
+C0110,26,Navi Mumbai,2023-03-19,Store,500,Regular
+C0111,18,Mumbai,2024-03-21,Mobile App,50,Regular
+C0112,56,Pune,2023-03-13,Website,1000,Premium
+C0113,67,Nagpur,2025-06-09,Mobile App,200,Regular
+C0114,34,Kolhapur,2025-01-03,Website,1500,Premium
+C0115,31,Pune,2025-05-02,Mobile App,1500,New
+C0116,51,Navi Mumbai,2025-02-02,Website,50,Regular
+C0117,68,Aurangabad,2025-05-08,Website,0,Regular
+C0118,32,Nagpur,2025-09-10,Store,50,At Risk
+C0119,46,Nagpur,2023-05-13,Store,0,Regular
+C0120,37,Kolhapur,2024-05-22,Store,1000,Regular
+C0121,60,Nashik,2023-07-24,Store,100,Regular
+C0122,33,Aurangabad,2024-10-24,Store,200,New
+C0123,42,Nashik,2024-11-26,Mobile App,100,Regular
+C0124,68,Nashik,2025-08-03,Mobile App,50,Regular
+C0125,39,Thane,2025-04-08,Website,500,Regular
+C0126,63,Pune,2023-12-12,Store,50,Premium
+C0127,43,Mumbai,2023-03-14,Website,1000,New
+C0128,60,Aurangabad,2023-12-16,Store,0,Regular
+C0129,25,Mumbai,2023-09-14,Website,200,New
+C0130,39,Navi Mumbai,2024-09-30,Website,1500,Regular
+C0131,62,Pune,2024-01-21,Store,100,Premium
+C0132,40,Navi Mumbai,2024-09-14,Mobile App,200,New
+C0133,55,Nashik,2024-05-20,Store,0,Premium
+C0134,27,Aurangabad,2023-01-28,Store,1500,New
+C0135,61,Mumbai,2023-05-06,Mobile App,200,Regular
+C0136,20,Mumbai,2024-01-29,Website,1500,Regular
+C0137,51,Aurangabad,2024-04-14,Mobile App,0,Regular
+C0138,58,Thane,2024-07-07,Store,50,Regular
+C0139,62,Navi Mumbai,2024-03-18,Website,0,New
+C0140,23,Navi Mumbai,2023-10-04,Store,200,At Risk
+C0141,47,Aurangabad,2024-03-21,Store,0,New
+C0142,48,Kolhapur,2023-08-31,Website,1500,At Risk
+C0143,45,Nashik,2024-04-12,Mobile App,1000,At Risk
+C0144,55,Nashik,2024-08-28,Mobile App,50,Regular
+C0145,43,Nashik,2024-01-27,Mobile App,500,New
+C0146,21,Nashik,2023-04-28,Store,200,New
+C0147,18,Pune,2024-07-12,Mobile App,1000,Regular
+C0148,53,Thane,2023-05-19,Website,0,Regular
+C0149,22,Aurangabad,2023-01-10,Website,50,Regular
+C0150,37,Mumbai,2024-10-03,Store,0,Premium
+C0151,32,Kolhapur,2025-08-28,Website,100,Regular
+C0152,22,Navi Mumbai,2025-03-27,Mobile App,50,New
+C0153,28,Mumbai,2024-01-11,Store,100,New
+C0154,39,Nagpur,2023-10-23,Mobile App,100,Premium
+C0155,47,Nashik,2023-09-27,Store,500,New
+C0156,43,Navi Mumbai,2023-03-19,Store,500,Regular
+C0157,57,Kolhapur,2024-02-06,Store,1000,At Risk
+C0158,55,Mumbai,2024-09-28,Mobile App,1500,Regular
+C0159,50,Aurangabad,2023-05-25,Store,1000,New
+C0160,68,Aurangabad,2023-04-14,Store,1000,Regular
+C0161,25,Pune,2023-06-28,Store,1500,At Risk
+C0162,69,Navi Mumbai,2023-10-16,Mobile App,200,At Risk
+C0163,50,Thane,2024-03-16,Store,1500,New
+C0164,39,Pune,2023-07-15,Mobile App,100,Premium
+C0165,55,Thane,2023-04-28,Store,200,Regular
+C0166,32,Thane,2025-08-05,Website,500,New
+C0167,62,Pune,2025-04-23,Store,100,Premium
+C0168,43,Nashik,2023-10-19,Website,200,New
+C0169,57,Navi Mumbai,2025-04-21,Store,1500,Regular
+C0170,60,Nagpur,2023-10-29,Mobile App,1000,New
+C0171,64,Kolhapur,2025-09-19,Mobile App,200,New
+C0172,22,Kolhapur,2023-11-20,Store,1500,New
+C0173,48,Pune,2024-08-26,Store,100,Premium
+C0174,58,Navi Mumbai,2023-10-23,Mobile App,0,New
+C0175,43,Navi Mumbai,2024-02-09,Store,1500,At Risk
+C0176,68,Kolhapur,2025-04-10,Website,1500,New
+C0177,27,Nagpur,2023-05-17,Mobile App,50,Regular
+C0178,69,Mumbai,2024-07-28,Mobile App,1000,Regular
+C0179,44,Pune,2023-07-29,Mobile App,100,New
+C0180,68,Navi Mumbai,2025-02-01,Store,1500,New
+C0181,41,Mumbai,2024-05-15,Store,1500,Regular
+C0182,45,Pune,2024-10-27,Website,1500,At Risk
+C0183,66,Nagpur,2023-12-27,Store,200,Regular
+C0184,66,Aurangabad,2023-12-26,Website,500,Regular
+C0185,36,Navi Mumbai,2024-03-10,Store,500,Regular
+C0186,47,Kolhapur,2024-04-21,Website,50,Regular
+C0187,64,Pune,2024-01-06,Website,200,Regular
+C0188,55,Nashik,2023-08-10,Store,0,Regular
+C0189,56,Nashik,2023-02-24,Store,50,At Risk
+C0190,50,Aurangabad,2023-06-11,Mobile App,50,At Risk
+C0191,18,Mumbai,2023-01-08,Store,1500,Premium
+C0192,64,Thane,2023-11-24,Store,0,Regular
+C0193,51,Nashik,2023-09-21,Store,1000,Regular
+C0194,60,Kolhapur,2025-03-24,Store,500,New
+C0195,48,Aurangabad,2025-06-28,Mobile App,1500,Regular
+C0196,40,Thane,2024-11-03,Store,500,At Risk
+C0197,35,Pune,2023-10-12,Mobile App,500,Regular
+C0198,19,Nashik,2025-01-15,Website,200,Premium
+C0199,55,Kolhapur,2025-03-15,Website,50,At Risk
+C0200,69,Pune,2025-05-16,Mobile App,0,At Risk
+C0201,63,Aurangabad,2024-09-23,Mobile App,0,Regular
+C0202,31,Mumbai,2023-07-28,Website,500,Regular
+C0203,39,Nashik,2023-07-20,Store,50,Regular
+C0204,51,Aurangabad,2023-04-19,Website,1000,At Risk
+C0205,59,Nagpur,2025-05-02,Website,50,Regular
+C0206,55,Pune,2023-06-02,Website,500,New
+C0207,44,Mumbai,2025-09-07,Store,100,Regular
+C0208,62,Mumbai,2023-09-25,Website,50,At Risk
+C0209,38,Nagpur,2025-07-10,Mobile App,1000,New
+C0210,60,Mumbai,2025-04-01,Store,200,Premium
+C0211,38,Nashik,2023-01-29,Store,200,Premium
+C0212,57,Nashik,2025-03-17,Mobile App,1500,Regular
+C0213,39,Thane,2025-01-27,Website,50,New
+C0214,36,Nashik,2023-05-28,Mobile App,0,Regular
+C0215,60,Pune,2023-12-31,Website,50,New
+C0216,57,Mumbai,2024-12-13,Store,500,Premium
+C0217,42,Aurangabad,2023-02-11,Store,50,Premium
+C0218,68,Navi Mumbai,2023-06-21,Store,200,Regular
+C0219,66,Thane,2023-02-13,Mobile App,0,Regular
+C0220,29,Navi Mumbai,2025-03-25,Mobile App,100,Premium
+C0221,34,Aurangabad,2024-10-22,Website,1000,At Risk
+C0222,42,Nagpur,2024-04-10,Store,50,New
+C0223,64,Kolhapur,2024-06-21,Website,1500,At Risk
+C0224,38,Navi Mumbai,2025-03-04,Mobile App,1000,New
+C0225,26,Nashik,2024-06-02,Mobile App,50,Regular
+C0226,35,Aurangabad,2024-04-21,Mobile App,1500,Regular
+C0227,59,Aurangabad,2024-03-18,Store,1500,Regular
+C0228,62,Pune,2024-09-11,Mobile App,100,Regular
+C0229,40,Nagpur,2023-07-02,Website,0,Regular
+C0230,42,Thane,2025-09-08,Website,500,Regular
+C0231,19,Aurangabad,2025-06-12,Store,50,New
+C0232,30,Thane,2025-01-28,Store,100,New
+C0233,69,Thane,2025-03-24,Mobile App,500,New
+C0234,33,Kolhapur,2025-01-17,Store,0,Premium
+C0235,56,Nagpur,2025-07-09,Mobile App,1000,New
+C0236,31,Kolhapur,2024-03-04,Store,200,Premium
+C0237,42,Kolhapur,2023-10-20,Store,1000,New
+C0238,66,Mumbai,2024-02-03,Website,200,At Risk
+C0239,54,Nashik,2025-03-15,Website,1500,At Risk
+C0240,41,Nashik,2023-10-29,Mobile App,50,New
+C0241,21,Nashik,2024-07-17,Store,500,Regular
+C0242,68,Thane,2025-06-03,Store,100,New
+C0243,58,Mumbai,2023-08-06,Mobile App,1000,Premium
+C0244,64,Aurangabad,2023-02-23,Mobile App,100,Regular
+C0245,59,Nashik,2025-01-22,Mobile App,1000,At Risk
+C0246,49,Nashik,2023-01-03,Store,500,Regular
+C0247,21,Navi Mumbai,2023-11-25,Mobile App,100,At Risk
+C0248,45,Thane,2023-11-19,Mobile App,0,At Risk
+C0249,26,Aurangabad,2023-06-19,Website,500,Premium
+C0250,41,Nagpur,2023-08-14,Store,100,Premium
+C0251,35,Navi Mumbai,2024-08-24,Mobile App,500,At Risk
+C0252,34,Pune,2025-08-30,Website,1000,Regular
+C0253,20,Kolhapur,2024-11-28,Website,100,At Risk
+C0254,23,Kolhapur,2023-10-16,Mobile App,200,At Risk
+C0255,65,Mumbai,2024-07-24,Store,500,Premium
+C0256,53,Aurangabad,2023-06-19,Website,200,New
+C0257,62,Pune,2025-01-16,Store,1500,Premium
+C0258,49,Nashik,2024-01-29,Store,1500,New
+C0259,19,Navi Mumbai,2023-12-22,Mobile App,200,New
+C0260,30,Navi Mumbai,2023-08-12,Store,0,Regular
+C0261,51,Nagpur,2023-08-11,Store,500,Premium
+C0262,36,Navi Mumbai,2023-11-22,Store,0,At Risk
+C0263,45,Nagpur,2025-04-10,Store,500,New
+C0264,37,Kolhapur,2023-07-15,Mobile App,200,Regular
+C0265,29,Navi Mumbai,2023-01-17,Website,1000,Regular
+C0266,35,Pune,2024-04-18,Mobile App,1500,At Risk
+C0267,52,Nagpur,2024-11-06,Mobile App,1500,New
+C0268,23,Aurangabad,2023-02-02,Website,100,Regular
+C0269,43,Pune,2025-09-09,Store,500,At Risk
+C0270,30,Mumbai,2023-04-09,Store,1500,Premium
+C0271,69,Kolhapur,2023-03-16,Store,1000,New
+C0272,44,Nashik,2024-04-03,Mobile App,200,New
+C0273,38,Aurangabad,2025-09-15,Store,100,At Risk
+C0274,22,Nashik,2024-10-20,Store,50,At Risk
+C0275,51,Thane,2024-06-10,Store,0,Regular
+C0276,35,Aurangabad,2024-06-07,Store,100,At Risk
+C0277,42,Mumbai,2024-03-05,Store,1500,Regular
+C0278,69,Aurangabad,2024-07-15,Website,200,New
+C0279,20,Nagpur,2025-04-07,Mobile App,0,New
+C0280,34,Navi Mumbai,2024-03-30,Website,200,Regular
+C0281,39,Navi Mumbai,2025-08-01,Store,50,Premium
+C0282,30,Mumbai,2024-01-30,Store,50,Premium
+C0283,63,Aurangabad,2023-12-04,Website,100,Premium
+C0284,55,Mumbai,2025-03-11,Store,1000,Premium
+C0285,34,Nagpur,2024-07-06,Mobile App,1500,Regular
+C0286,45,Nagpur,2023-03-27,Store,50,Regular
+C0287,50,Mumbai,2023-01-02,Mobile App,1000,New
+C0288,43,Navi Mumbai,2023-04-26,Store,1000,Regular
+C0289,67,Aurangabad,2024-11-16,Store,1500,Premium
+C0290,28,Thane,2025-05-21,Website,1000,Regular
+C0291,56,Aurangabad,2023-03-14,Website,50,At Risk
+C0292,67,Nagpur,2025-04-19,Mobile App,1000,Regular
+C0293,24,Nashik,2024-01-18,Mobile App,200,Regular
+C0294,43,Aurangabad,2023-01-22,Website,0,New
+C0295,28,Pune,2023-01-14,Store,1500,Regular
+C0296,62,Nashik,2024-06-20,Store,1500,Regular
+C0297,25,Thane,2024-11-15,Mobile App,1500,New
+C0298,35,Navi Mumbai,2025-03-22,Website,1000,Regular
+C0299,58,Nashik,2023-11-08,Website,50,Regular
+C0300,46,Navi Mumbai,2024-03-20,Store,0,Premium
+C0301,47,Thane,2025-03-27,Website,500,Premium
+C0302,21,Nagpur,2025-03-15,Store,200,Regular
+C0303,66,Nashik,2024-07-15,Website,200,New
+C0304,53,Pune,2025-05-15,Website,200,Regular
+C0305,68,Nashik,2025-07-26,Store,500,New
+C0306,35,Kolhapur,2023-08-25,Mobile App,0,New
+C0307,53,Kolhapur,2024-06-03,Website,50,New
+C0308,19,Aurangabad,2023-11-30,Store,1000,Regular
+C0309,64,Navi Mumbai,2023-11-14,Website,0,Regular
+C0310,23,Mumbai,2025-01-12,Store,0,Regular
+C0311,54,Thane,2023-06-12,Store,200,New
+C0312,40,Aurangabad,2023-10-28,Store,50,New
+C0313,33,Pune,2023-09-27,Store,200,Premium
+C0314,22,Nagpur,2023-09-14,Website,200,Premium
+C0315,37,Nagpur,2024-07-29,Store,500,Regular
+C0316,54,Mumbai,2023-07-23,Mobile App,200,Regular
+C0317,32,Navi Mumbai,2024-01-02,Store,500,New
+C0318,19,Mumbai,2023-11-30,Website,200,New
+C0319,52,Navi Mumbai,2023-01-01,Store,100,Regular
+C0320,31,Nagpur,2024-11-21,Store,500,Regular
+C0321,60,Navi Mumbai,2023-09-08,Mobile App,50,At Risk
+C0322,48,Kolhapur,2023-02-08,Website,50,Regular
+C0323,37,Aurangabad,2023-10-21,Store,500,New
+C0324,59,Nagpur,2025-08-03,Website,50,New
+C0325,46,Kolhapur,2025-02-14,Store,1500,New
+C0326,18,Aurangabad,2025-03-12,Mobile App,100,Premium
+C0327,35,Mumbai,2023-04-24,Mobile App,1500,Regular
+C0328,44,Kolhapur,2024-08-10,Mobile App,200,Premium
+C0329,48,Kolhapur,2023-05-27,Mobile App,500,Regular
+C0330,45,Pune,2025-08-15,Mobile App,1000,Regular
+C0331,58,Mumbai,2023-06-10,Mobile App,0,New
+C0332,58,Nashik,2023-06-08,Mobile App,500,Premium
+C0333,55,Nashik,2024-10-05,Mobile App,50,At Risk
+C0334,36,Thane,2023-10-06,Mobile App,1000,Regular
+C0335,38,Aurangabad,2024-08-23,Website,50,Regular
+C0336,36,Nagpur,2025-07-05,Website,0,New
+C0337,52,Nagpur,2024-05-11,Store,100,Regular
+C0338,31,Pune,2024-09-13,Mobile App,0,Regular
+C0339,25,Kolhapur,2025-03-04,Mobile App,200,New
+C0340,42,Nagpur,2023-06-03,Store,500,New
+C0341,32,Nashik,2025-01-09,Mobile App,1000,Premium
+C0342,60,Thane,2023-12-30,Mobile App,100,New
+C0343,70,Nagpur,2025-03-25,Mobile App,200,At Risk
+C0344,21,Thane,2025-02-21,Store,100,New
+C0345,21,Kolhapur,2025-06-11,Website,1000,Regular
+C0346,45,Nashik,2025-01-20,Website,50,Regular
+C0347,19,Mumbai,2024-10-19,Mobile App,50,New
+C0348,24,Aurangabad,2024-04-03,Mobile App,1500,Regular
+C0349,66,Pune,2024-08-05,Store,200,Regular
+C0350,24,Navi Mumbai,2025-06-04,Website,500,Regular
+C0351,30,Aurangabad,2025-06-09,Website,500,At Risk
+C0352,43,Mumbai,2025-06-23,Website,50,Regular
+C0353,25,Kolhapur,2024-11-12,Store,50,Regular
+C0354,67,Kolhapur,2024-08-02,Mobile App,200,Premium
+C0355,35,Nashik,2025-05-06,Website,0,Regular
+C0356,64,Mumbai,2024-08-03,Mobile App,50,Regular
+C0357,34,Navi Mumbai,2024-10-22,Store,1500,New
+C0358,49,Nashik,2024-03-30,Store,1000,Regular
+C0359,42,Pune,2024-03-16,Store,1500,Premium
+C0360,59,Navi Mumbai,2025-04-14,Store,0,Premium
+C0361,41,Nagpur,2025-09-25,Mobile App,200,Premium
+C0362,49,Aurangabad,2024-07-07,Mobile App,200,New
+C0363,53,Nashik,2023-12-19,Store,0,New
+C0364,56,Nagpur,2024-02-29,Store,200,New
+C0365,61,Nashik,2024-05-31,Website,1000,Regular
+C0366,61,Thane,2023-03-08,Store,1000,Regular
+C0367,61,Pune,2024-12-27,Store,100,Premium
+C0368,69,Kolhapur,2025-03-08,Website,50,At Risk
+C0369,46,Aurangabad,2025-04-24,Mobile App,1500,Regular
+C0370,47,Mumbai,2024-03-21,Mobile App,200,Regular
+C0371,25,Nagpur,2025-06-26,Store,1000,New
+C0372,68,Kolhapur,2023-12-14,Store,200,At Risk
+C0373,18,Mumbai,2023-12-30,Website,200,Regular
+C0374,25,Aurangabad,2025-09-04,Mobile App,500,Premium
+C0375,69,Pune,2024-07-03,Store,200,Regular
+C0376,62,Pune,2023-04-24,Store,50,At Risk
+C0377,18,Nashik,2025-08-26,Mobile App,1000,Regular
+C0378,35,Aurangabad,2023-07-15,Store,1000,Regular
+C0379,54,Nagpur,2023-12-08,Store,1500,Regular
+C0380,35,Thane,2024-11-08,Store,50,At Risk
+C0381,20,Kolhapur,2023-05-14,Store,1000,New
+C0382,52,Pune,2024-02-09,Store,100,Regular
+C0383,35,Kolhapur,2025-02-26,Mobile App,50,New
+C0384,50,Nagpur,2025-04-01,Website,0,Regular
+C0385,63,Thane,2025-04-01,Store,100,Regular
+C0386,30,Thane,2023-01-25,Store,500,New
+C0387,32,Nagpur,2024-06-20,Store,200,At Risk
+C0388,45,Thane,2024-08-30,Mobile App,200,Regular
+C0389,23,Kolhapur,2025-04-07,Store,1000,Regular
+C0390,36,Aurangabad,2024-10-24,Store,100,New
+C0391,19,Navi Mumbai,2023-12-11,Mobile App,500,Regular
+C0392,26,Aurangabad,2024-04-07,Store,100,New
+C0393,63,Nashik,2023-06-05,Store,200,Regular
+C0394,56,Kolhapur,2025-02-10,Mobile App,1500,New
+C0395,69,Nagpur,2023-08-09,Website,1500,Premium
+C0396,69,Aurangabad,2024-04-29,Store,500,Regular
+C0397,45,Navi Mumbai,2023-06-04,Mobile App,500,Regular
+C0398,19,Navi Mumbai,2024-10-06,Website,1000,Premium
+C0399,27,Aurangabad,2024-10-22,Store,1500,Regular
+C0400,38,Pune,2023-01-13,Store,500,New
+C0401,62,Kolhapur,2025-09-23,Website,100,Regular
+C0402,38,Nagpur,2024-01-30,Store,500,Regular
+C0403,51,Nagpur,2024-12-08,Store,50,Regular
+C0404,46,Nagpur,2025-01-14,Mobile App,50,Premium
+C0405,66,Mumbai,2024-02-01,Store,0,At Risk
+C0406,65,Thane,2023-05-10,Store,50,New
+C0407,57,Thane,2025-08-13,Mobile App,1500,Regular
+C0408,39,Kolhapur,2025-08-12,Store,0,New
+C0409,62,Nashik,2025-05-05,Store,200,Regular
+C0410,25,Thane,2023-04-11,Store,1500,Premium
+C0411,68,Kolhapur,2024-09-12,Store,0,At Risk
+C0412,57,Pune,2023-10-04,Store,200,Regular
+C0413,36,Aurangabad,2024-02-03,Mobile App,100,New
+C0414,22,Navi Mumbai,2023-09-18,Mobile App,50,New
+C0415,65,Nagpur,2025-09-18,Mobile App,0,At Risk
+C0416,67,Nashik,2024-04-07,Store,1000,Regular
+C0417,58,Mumbai,2024-09-08,Website,1000,At Risk
+C0418,38,Nagpur,2025-02-16,Store,50,Regular
+C0419,49,Aurangabad,2024-11-23,Website,200,New
+C0420,32,Mumbai,2024-06-05,Mobile App,1500,New
+C0421,31,Nagpur,2024-05-02,Store,50,At Risk
+C0422,37,Thane,2024-02-18,Website,100,At Risk
+C0423,38,Nashik,2025-06-06,Website,1000,At Risk
+C0424,29,Mumbai,2024-05-11,Website,500,Premium
+C0425,25,Navi Mumbai,2024-10-22,Website,1500,New
+C0426,28,Kolhapur,2025-01-05,Website,100,Regular
+C0427,46,Thane,2025-05-09,Store,500,Premium
+C0428,44,Pune,2024-03-11,Store,100,New
+C0429,30,Navi Mumbai,2023-02-13,Website,500,Premium
+C0430,36,Aurangabad,2024-05-29,Website,1500,Regular
+C0431,54,Aurangabad,2023-10-08,Store,50,New
+C0432,61,Thane,2023-05-09,Mobile App,200,New
+C0433,59,Pune,2023-08-12,Store,50,Premium
+C0434,56,Nashik,2023-10-29,Store,0,Regular
+C0435,69,Nagpur,2024-01-28,Store,50,Premium
+C0436,34,Navi Mumbai,2023-01-12,Store,50,Premium
+C0437,28,Kolhapur,2023-01-20,Store,1500,Regular
+C0438,54,Pune,2023-07-30,Store,500,Regular
+C0439,41,Navi Mumbai,2025-06-24,Website,500,Regular
+C0440,57,Aurangabad,2025-04-01,Store,1000,New
+C0441,62,Nagpur,2023-07-07,Store,1500,Regular
+C0442,20,Kolhapur,2024-06-09,Store,50,Regular
+C0443,41,Pune,2025-06-18,Website,100,Regular
+C0444,36,Mumbai,2023-03-01,Website,100,New
+C0445,29,Navi Mumbai,2023-04-19,Mobile App,500,Premium
+C0446,36,Kolhapur,2024-12-04,Store,1000,Regular
+C0447,50,Pune,2023-07-02,Store,0,Regular
+C0448,64,Nashik,2025-02-01,Mobile App,1000,Regular
+C0449,23,Nagpur,2024-02-05,Website,1500,New
+C0450,64,Navi Mumbai,2024-12-10,Mobile App,1500,Regular
+C0451,22,Mumbai,2024-02-04,Website,50,Regular
+C0452,60,Mumbai,2025-08-30,Website,1000,Regular
+C0453,62,Nashik,2025-04-28,Mobile App,50,At Risk
+C0454,68,Thane,2025-07-10,Mobile App,500,Regular
+C0455,27,Kolhapur,2025-07-05,Website,1000,Regular
+C0456,56,Aurangabad,2024-09-29,Website,0,Premium
+C0457,23,Mumbai,2024-09-03,Store,200,New
+C0458,48,Nagpur,2024-07-22,Website,200,New
+C0459,61,Pune,2024-02-12,Store,200,Regular
+C0460,45,Navi Mumbai,2025-08-08,Store,1000,Regular
+C0461,30,Navi Mumbai,2024-12-29,Store,500,At Risk
+C0462,37,Pune,2024-09-10,Mobile App,0,Regular
+C0463,50,Nashik,2024-11-20,Store,1500,New
+C0464,28,Nagpur,2024-11-02,Store,1500,Regular
+C0465,61,Kolhapur,2024-10-27,Store,0,Regular
+C0466,35,Thane,2023-01-21,Website,50,New
+C0467,36,Nashik,2023-11-01,Mobile App,200,Regular
+C0468,50,Pune,2024-02-29,Website,1500,Regular
+C0469,39,Aurangabad,2023-11-23,Website,500,New
+C0470,60,Mumbai,2023-01-28,Mobile App,0,Regular
+C0471,63,Navi Mumbai,2025-08-23,Mobile App,50,New
+C0472,39,Kolhapur,2024-05-28,Store,50,Regular
+C0473,68,Thane,2025-05-29,Mobile App,200,New
+C0474,55,Nagpur,2025-07-24,Store,100,New
+C0475,66,Kolhapur,2025-04-10,Store,500,New
+C0476,21,Navi Mumbai,2024-01-18,Mobile App,1500,New
+C0477,32,Navi Mumbai,2023-08-01,Store,1000,New
+C0478,45,Pune,2024-11-10,Website,50,New
+C0479,20,Kolhapur,2023-09-11,Store,50,Regular
+C0480,56,Nagpur,2025-02-12,Store,100,Regular
+C0481,22,Nashik,2025-07-03,Store,200,Regular
+C0482,45,Mumbai,2025-07-08,Website,500,Regular
+C0483,64,Aurangabad,2025-06-23,Mobile App,50,New
+C0484,23,Nagpur,2024-04-12,Store,100,Regular
+C0485,67,Nashik,2023-10-10,Mobile App,0,Regular
+C0486,54,Kolhapur,2024-06-03,Website,100,Regular
+C0487,23,Navi Mumbai,2025-09-16,Store,0,Premium
+C0488,33,Mumbai,2025-03-24,Store,1500,New
+C0489,30,Pune,2024-10-31,Store,1000,At Risk
+C0490,44,Thane,2024-07-24,Website,0,New
+C0491,51,Pune,2025-07-04,Store,500,At Risk
+C0492,46,Mumbai,2024-04-20,Mobile App,50,New
+C0493,61,Mumbai,2024-07-25,Store,1500,Regular
+C0494,38,Kolhapur,2024-04-01,Website,100,At Risk
+C0495,43,Kolhapur,2025-03-08,Website,50,New
+C0496,52,Nagpur,2025-09-07,Mobile App,100,Regular
+C0497,28,Mumbai,2023-11-10,Store,1000,Premium
+C0498,28,Navi Mumbai,2024-09-11,Mobile App,100,New
+C0499,33,Pune,2025-06-11,Store,200,Premium
+C0500,26,Nagpur,2024-03-29,Store,1500,Regular

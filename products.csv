@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_price_inr,unit_cost_inr,reorder_level
+P1001,Rice 5kg,Grocery,268.47,205.97,17
+P1002,Cooking Oil 1L,Grocery,405.18,227.13,28
+P1003,Milk 1L,Grocery,100.98,64.57,45
+P1004,Coffee 200g,Grocery,127.15,87.64,11
+P1005,Breakfast Cereal,Grocery,480.42,367.05,11
+P1006,Shampoo Bottle,Personal Care,131.82,74.83,21
+P1007,Toothpaste,Personal Care,325.24,169.72,34
+P1008,Face Wash,Personal Care,181.05,122.95,37
+P1009,Body Lotion,Personal Care,488.19,283.4,12
+P1010,Soap Pack,Personal Care,436.97,304.52,18
+P1011,LED Bulb,Home,152.86,117.2,23
+P1012,Storage Box,Home,985.41,590.46,11
+P1013,Dishwashing Liquid,Home,846.34,536.95,16
+P1014,Laundry Detergent,Home,763.2,562.2,44
+P1015,Water Bottle,Home,1098.44,645.09,49
+P1016,Wireless Earbuds,Electronics,2680.46,1690.14,13
+P1017,USB Cable,Electronics,769.26,593.94,35
+P1018,Power Bank,Electronics,1656.68,1031.68,45
+P1019,Bluetooth Speaker,Electronics,2152.96,1635.58,17
+P1020,Phone Charger,Electronics,2060.99,1350.81,49
+P1021,T-Shirt,Apparel,1873.52,1338.26,33
+P1022,Jeans,Apparel,849.18,503.6,38
+P1023,Socks Pack,Apparel,1784.61,962.59,16
+P1024,Sports Cap,Apparel,989.14,615.91,17
+P1025,Hoodie,Apparel,111.6,81.69,26

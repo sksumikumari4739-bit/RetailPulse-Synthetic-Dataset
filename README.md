@@ -1,6 +1,4 @@
 # RetailPulse-Synthetic-Dataset
-RetailPulse – Synthetic Dataset
-================================
 
 Purpose:
 Demo data for an AI-powered customer analytics and demand forecasting platform.

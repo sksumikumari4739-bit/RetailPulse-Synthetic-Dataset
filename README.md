@@ -18,6 +18,7 @@ Live page (EDA and data-quality): https://datauploadcheck.lovable.app/
 Demo video: https://drive.google.com/file/d/1SyF4qjEFoTrrp-coZjCS_YJfMzrOeJJ6/view?usp=sharing
 Feedback video: https://drive.google.com/file/d/1o8jRx8nTwvUgJyQxsi3H_H24KYmPyrLE/view?usp=sharing
 Project report (PDF): https://drive.google.com/file/d/1KyTVsk1L4xb7hZ8bK1Eheaf7vamNBPgL/view?usp=sharing
+
 What the project does
 Sales and profit analytics: revenue, profit, margin, orders, average order value, trends by month, weekday and quarter.
 Customer analytics: segments, age groups, loyalty points, payment methods and sales channels.
@@ -51,8 +52,6 @@ Python (Pandas, NumPy, Prophet) · Power BI Desktop (Power Query, DAX) · Lovabl
 
 Repository structure
 
-TODO: adjust this to the files that are really in the repository.
-
 RetailPulse/
 ├── README.md
 ├── dashboard/        # Power BI file (.pbix) and PDF export of all pages
@@ -76,7 +75,6 @@ Note: the sales table records 14,012 units and the demand table records 93,551 u
 Model summary
 Total daily demand forecast with Prophet; trained on 335 days and tested on the last 30 days of 2025.
 Prophet MAPE 8.28 % and RMSE 21.9, against 21.8 % and 51.8 for a naive baseline.
-TODO add the Prophet settings (seasonality, whether holiday and promotion flags were used).
 Limitations and next steps
 At-risk customers come from the At Risk label in the data. This version has no churn prediction model.
 Experiment tracking (MLflow), drift detection (Evidently AI) and automatic retraining are not implemented yet.

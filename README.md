@@ -1,4 +1,4 @@
-RetailPulse – AI-Powered Customer Analytics & Demand Forecasting Platform
+**RetailPulse – AI-Powered Customer Analytics & Demand Forecasting Platform**
 
 A retail analytics project built for the Zidio Development – Data Science & Analytics programme (Team No 18, Batch Sept). It brings sales, customers, products, demand forecasts and inventory risk into one interactive Power BI dashboard.
 
@@ -60,6 +60,7 @@ RetailPulse/
 ├── notebooks/        # Prophet forecasting notebook
 ├── screenshots/      # Dashboard and EDA screenshots
 └── report/           # Project report (PDF)
+
 How to use
 Dashboard: open the .pbix file in Power BI Desktop (free, Windows). A PDF export and screenshots are in the dashboard and screenshots folders for viewing without Power BI.
 EDA page: open the live page, choose the "Retail sales" dataset, and upload data/retailpulse_merged.csv. The page shows the distribution of each column, missing values by column and a correlation matrix.
